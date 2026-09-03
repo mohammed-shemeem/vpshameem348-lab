@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence;Python+Developer+%7C+Data+Analytics;Building+AI-Powered+Solutions;Open+to+Internships+%26+Full-Time+Opportunities" alt="Typing SVG" />
 
 <p>
-  <a href="linkedin.com/in/mohammed-shemeem">
+  <a href="www.linkedin.com/in/mohammed-shemeem">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
